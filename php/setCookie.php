@@ -5,3 +5,5 @@
     echo("setto il cookie");
 
 ?>
+<br><br>
+<a href="readCookie.php"><button>Read cookie language</button></a>
