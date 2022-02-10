@@ -1,5 +1,3 @@
 <?php
 
-    header("Location:php/setCookie.php");
-
-?>
+header("Location:php/readCookie.php");
