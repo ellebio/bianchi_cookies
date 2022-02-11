@@ -1,6 +1,6 @@
 <?php
 
-if (isset($_COOKIE["lang"])) {
+if (isset($_COOKIE["lang"]) && !empty(trim($_COOKIE["lang"]))) {
     $lang = $_COOKIE["lang"];
     header("Location:../pages/$lang/index.html");
 }else{
