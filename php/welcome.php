@@ -9,7 +9,6 @@
 </head>
 
 <body>
-
     Scegli la tua lingua:
     <a href="setCookie_es.php"><button>Español</button></a>
     <a href="setCookie_fr.php"><button>Français</button></a>
